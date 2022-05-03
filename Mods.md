@@ -1,2 +1,0 @@
-1. Hasta aquí funcionan a la perfección las funciones tipo read y se pueden fetchear sin problemas, se pueden colocar en cualquier lugar del FE y se actualizan con useEffect
-2. Queda pendiente usar WalletConnect Web3 Provider para que cualquier wallet pueda conectarse
