@@ -1,3 +1,7 @@
+**Description of the project**
+
+This page was designed to manage several tokenomics around $SFD token and its features on the smart contract. It was made using React and Solidity. Connection between them through Web3.js.
+
 **How to start up the project**
 
 ## NPM
